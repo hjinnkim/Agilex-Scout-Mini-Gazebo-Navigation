@@ -2,3 +2,10 @@
 	path = scout_gazebo_sim
 	url = https://github.com/hjinnkim/ugv_gazebo_sim.git
 	branch = noetic-devel
+[submodule "scout_ros/scout_ros"]
+	path = scout_ros/scout_ros
+	url = https://github.com/hjinnkim/scout_ros.git
+	branch = noetic-gazebo-devel
+[submodule "scout_ros/ugv_sdk"]
+	path = scout_ros/ugv_sdk
+	url = https://github.com/agilexrobotics/ugv_sdk.git
