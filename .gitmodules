@@ -1,0 +1,4 @@
+[submodule "scout_gazebo_sim"]
+	path = scout_gazebo_sim
+	url = https://github.com/hjinnkim/ugv_gazebo_sim.git
+	branch = noetic-devel
