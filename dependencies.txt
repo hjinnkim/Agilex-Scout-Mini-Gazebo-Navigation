@@ -1,0 +1,9 @@
+build-essential
+cmake
+libasio-dev
+ros-noetic-ros-control
+ros-noetic-ros-controllers
+ros-noetic-gazebo-ros
+ros-noetic-gazebo-ros-control
+ros-noetic-joint-state-publisher-gui
+ros-noetic-teleop-twist-keyboard 
