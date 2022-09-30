@@ -9,3 +9,4 @@
 [submodule "scout_ros/ugv_sdk"]
 	path = scout_ros/ugv_sdk
 	url = https://github.com/agilexrobotics/ugv_sdk.git
+	branch = next
