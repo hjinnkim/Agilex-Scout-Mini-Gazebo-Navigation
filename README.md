@@ -101,3 +101,13 @@ Download and install gazebo. You can go to the website : <http://gazebosim.org/i
 ### **4. 3D navigation**
 
 To be added
+
+### Simulator Examples
+
+<p align="center">
+<img src="/resources/3d lidar.png" width=300px>
+<br>
+<img src="/resources/slam.png" width=300px>
+<br>
+<img src="/resources/planning.png" width=300px>
+</p>

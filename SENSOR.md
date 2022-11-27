@@ -13,8 +13,6 @@
 #### How to change lidar range
 * You can change lidar range by editing parameters in **ugv_gazebo_sim/scout/scout_description/urdf/mini.xacro**
 
-    ![img](images/lidar_range.png)
-
     By editing parameters in min, max part, you can change lidar range
 
 ### Add realsense camera
