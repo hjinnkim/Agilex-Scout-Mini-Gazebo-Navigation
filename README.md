@@ -164,4 +164,3 @@ Before running any command below, source devel/setup.bash
 ### References
 
 - [agilexrobotics/scout_ros github repo](https://github.com/agilexrobotics/scout_ros)
-- 

@@ -15,7 +15,7 @@
 
 - Detailed setting for each sensor relative to the platform is written in scout/scout_description/urdf/mini.xacro
 - Detailed information for each sensor is written in scout/scout_description/(sensor_name).xacro
-    - ex) [imu.xacro]()
+    - ex) [imu.xacro](/scout_gazebo_sim/scout/scout_description/urdf/imu.xacro)
     - If you want to change range option for lidar, you need to change the argument in the xacro file
 - You can set the sensor on/off, change the position by setting the argument in the launch file.
     - Please refer scout_bringup/scout_test/scout_mini_sensor_test.launch
