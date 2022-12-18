@@ -2,8 +2,8 @@
     <arg name="map_file"                  default="map1.yaml" />
     <arg name="open_rviz"                 default="true" />
     
-    <arg name="initial_pose_x"            default="-1.0" />
-    <arg name="initial_pose_y"            default="-1.0" />
+    <arg name="initial_pose_x"            default="0.0" />
+    <arg name="initial_pose_y"            default="0.0" />
     <arg name="initial_pose_a"            default="0.0" />
 
     <!-- AMCL parameters -->
